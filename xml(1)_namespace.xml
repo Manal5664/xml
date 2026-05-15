@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<personData>
+    <user id="1" xmlns:a="http://john.com/mynamespace">
+        <a:fname>john</a:fname>
+        <a:lname>doe</a:lname>
+        <a:email>john@gmail.com</a:email>
+    </user>
+    <user id="2" xmlns:b="http://ali.com/mynamespace">
+        <b:fname>ali</b:fname>
+        <b:lname>asad</b:lname>
+        <b:email>ali@gmail.com</b:email>
+    </user>
+    <user id="3" xmlns:c="http://amir.com/mynamespace">
+        <c:fname>amir</c:fname>
+        <c:lname>khan</c:lname>
+        <c:email>amir@gmail.com</c:email>
+    </user>
+    <user id="4" xmlns:d="http://arif.com/mynamespace">
+        <d:fname>arif</d:fname>
+        <d:lname>saad</d:lname>
+        <d:email>arif@gmail.com</d:email>
+    </user>
+
+</personData>
