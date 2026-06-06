@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="sch.xml" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+
+
+<personData>
+    <user>
+        <fname>ali</fname>
+        <lname>sana</lname>
+        <enmail>ali@gmail.com</enmail>
+        <contact>0312232323</contact>
+        <address>karachi</address>
+        <rollnum>12345</rollnum>
+        <age>45</age>
+    </user>
+    <user>
+        <fname>ali</fname>
+        <lname>sana</lname>
+        <enmail>ali@gmail.com</enmail>
+        <contact>0312232323</contact>
+        <address>karachi</address>
+        <llnum>12345</rollnum>
+        <age>45</age>
+    </user>
+
+    
+
+</personData>
